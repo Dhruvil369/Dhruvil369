@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there! I'm Dhruvil
 
-<!--
-**Dhruvil369/Dhruvil369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer and AI enthusiast working on cutting-edge technologies like **LangChain**, **LangGraph**, **Generative AI**, and **MERN Stack**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### 💻 Programming & Web
+- JavaScript / Node.js / Express.js
+- React.js / Zustand / Axios / Socket.IO
+- HTML5 / CSS3 / Tailwind CSS
+
+### 🧠 AI/ML & Deep Learning
+- Python / Jupyter Notebooks
+- TensorFlow / Keras / LSTM / Transformers
+- LangChain / LangGraph / Vector Databases
+
+### 🗄️ Databases & Tools
+- MongoDB / Firebase
+- Git / GitHub / VS Code
+- FAISS / Chroma / Pinecone
+
+---
+
+## 🧠 About Me
+
+- 🔭 Currently working on AI + RAG-based projects and real-time chat applications.
+- 🌱 Learning: Apache Kafka, Docker, and AI Agent Architectures.
+- 💬 Ask me about anything related to MERN stack, LLM apps, or vector search.
+- 📫 How to reach me: [dhruvil.email@example.com](mailto:dhruvil.email@example.com) *(replace with your actual email)*
+
+---
+
+## 📊 GitHub Stats
+
+![Dhruvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruvil369&show_icons=true&theme=radical)
+
+---
+
+> Let's build the future together! 🚀
