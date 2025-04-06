@@ -6,15 +6,15 @@ I'm a passionate full-stack developer and AI enthusiast working on cutting-edge 
 
 ## 🚀 Skills
 
+### 🧠 AI/ML/DL & Deep Learning
+- Python / Jupyter Notebooks
+- TensorFlow / Keras / LSTM / Transformers
+- LangChain / LangGraph / Vector Databases
+
 ### 💻 Programming & Web
 - JavaScript / Node.js / Express.js
 - React.js / Zustand / Axios / Socket.IO
 - HTML5 / CSS3 / Tailwind CSS
-
-### 🧠 AI/ML & Deep Learning
-- Python / Jupyter Notebooks
-- TensorFlow / Keras / LSTM / Transformers
-- LangChain / LangGraph / Vector Databases
 
 ### 🗄️ Databases & Tools
 - MongoDB / Firebase
@@ -28,14 +28,10 @@ I'm a passionate full-stack developer and AI enthusiast working on cutting-edge 
 - 🔭 Currently working on AI + RAG-based projects and real-time chat applications.
 - 🌱 Learning: Apache Kafka, Docker, and AI Agent Architectures.
 - 💬 Ask me about anything related to MERN stack, LLM apps, or vector search.
-- 📫 How to reach me: [dhruvil.email@example.com](mailto:dhruvil.email@example.com) *(replace with your actual email)*
+- 📫 How to reach me: chauhandhruvil12@gmail.com
 
 ---
+## 📩 Mail Me for Collaboration
 
-## 📊 GitHub Stats
-
-![Dhruvil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruvil369&show_icons=true&theme=radical)
-
----
-
-> Let's build the future together! 🚀
+Feel free to reach out — I’m always open to exciting opportunities!  
+🚀 **Let’s build the future together!**
