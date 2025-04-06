@@ -17,7 +17,7 @@ I'm a passionate full-stack developer and AI enthusiast working on cutting-edge 
 - HTML5 / CSS3 / Tailwind CSS
 
 ### 🗄️ Databases & Tools
-- MongoDB / Firebase
+- MongoDB / ElasticSearch / SQL 
 - Git / GitHub / VS Code
 - FAISS / Chroma / Pinecone
 
