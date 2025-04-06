@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Dhruvil
 
-I'm a passionate full-stack developer and AI enthusiast working on cutting-edge technologies like **LangChain**, **LangGraph**, **Generative AI**, and **MERN Stack**.
+I'm a passionate full-stack developer and AI enthusiast working on cutting-edge technologies like **LangChain**, **LangGraph** , **Machine Learning** , **DeepLearning** , **Generative AI** , and **MERN Stack**.
 
 ---
 
